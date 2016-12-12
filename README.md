@@ -13,12 +13,11 @@ Version: 1.0.0
 - Collect Information from millions of apps
 - Check the app’s security protection (marked as ```<Hacker>```, designed for app repackaging hacking)
 
-
 ##Author
 
 - Yu-Cheng Lin  (androbugs.framework at gmail.com, @AndroBugs)
 
-## Steup Steps and Usage for Windows
+## Setup Steps and Usage for Windows
 
 **Easy to use for Android developers or hackers on Microsoft Windows: (a) No need to install Python 2.7 (b) No need to install any 3rd-party library (c) No need to install AndroBugs Framework**
 
@@ -29,7 +28,7 @@ Version: 1.0.0
 5. ```androbugs.exe -h```
 6. ```androbugs.exe -f [APK file]```
 
-## Massive Analysis Tool Steup Steps and Usage for Windows
+## Massive Analysis Tool Setup Steps and Usage for Windows
 1. Complete the *Steup Steps and Usage for Windows* first
 2. Install the Windows version of MongoDB (https://www.mongodb.org/downloads)
 3. Install [PyMongo library](http://api.mongodb.org/python/current/installation.html)
